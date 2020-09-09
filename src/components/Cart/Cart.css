@@ -1,0 +1,9 @@
+.added-cart{
+    display:flex;
+    justify-content:space-between;
+    padding:15px;
+    margin:10px;
+}
+.cart-container img{
+    width: 200px;   
+}

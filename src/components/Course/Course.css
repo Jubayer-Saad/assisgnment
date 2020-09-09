@@ -1,0 +1,16 @@
+.box-course{
+    width:30%;
+    float:left;
+    margin-left: 30px;
+    margin-bottom:20px;
+    padding: 5px;
+    justify-content: space-between;
+    border-radius:10px;
+    box-shadow:5px 5px 10px lightgray, -5px -5px 10px lightgray ;
+    text-align: center;
+}
+img{
+    height: 200px;
+    width: 200px;
+    padding-top: 5px;
+}
